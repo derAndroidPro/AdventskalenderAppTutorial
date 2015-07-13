@@ -2,7 +2,7 @@
 Verkürze deinen Freunden die Zeit bis Weihnachten und programmiere eine Adventskalender App, die jeden Tag ein neues Bild anzeigt!
 
 - Tutorial auf YouTube: https://youtu.be/OxvFKQGN4RM
-- Projekt für Android Studio
+- Projekt für Eclipse (Kann problemlos in Android Studio importiert werden)
 
 <b>SCREENSHOTS:</b>
 
